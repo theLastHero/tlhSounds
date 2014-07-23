@@ -1,0 +1,13 @@
+name: tlhSounds
+version: 0.1.dev
+description: tlhSounds
+author: judgetread
+authors: [judgetread] 
+website: http://thelasthero.net
+main: net.thelasthero.tlhSounds.tlhSounds
+softdepend: [ProtocolLib]
+
+commands:
+  sounds:
+    description: change sounds
+    aliases: [s]
